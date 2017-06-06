@@ -3,7 +3,7 @@
   
     
     <entry>
-      <title><![CDATA[spring-data-jpa]]></title>
+      <title><![CDATA[spring-data-jpa快速入门]]></title>
       <url>/2017/06/06/spring-data-jpa/</url>
       <content type="html"><![CDATA[<p>spring-data-jpa是Spring Data的一个子项目，可以极大的简化我们对数据库的操作，我们只需要通过编写一个继承自JpaRepository的接口就能完成数据访问<br><a id="more"></a></p>
 <h2 id="项目配置"><a href="#项目配置" class="headerlink" title="项目配置"></a>项目配置</h2><p>使用SPRING INITIALIZR快速创建一个spring boot项目<br><a href="http://start.spring.io/" target="_blank" rel="external">http://start.spring.io/</a></p>

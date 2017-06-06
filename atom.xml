@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-06-06T18:02:36.718Z</updated>
+  <updated>2017-06-06T18:12:59.252Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>spring-data-jpa</title>
+    <title>spring-data-jpa快速入门</title>
     <link href="http://yoursite.com/2017/06/06/spring-data-jpa/"/>
     <id>http://yoursite.com/2017/06/06/spring-data-jpa/</id>
     <published>2017-06-06T15:18:06.122Z</published>
-    <updated>2017-06-06T18:02:36.718Z</updated>
+    <updated>2017-06-06T18:12:59.252Z</updated>
     
     <content type="html"><![CDATA[<p>spring-data-jpa是Spring Data的一个子项目，可以极大的简化我们对数据库的操作，我们只需要通过编写一个继承自JpaRepository的接口就能完成数据访问<br><a id="more"></a></p>
 <h2 id="项目配置"><a href="#项目配置" class="headerlink" title="项目配置"></a>项目配置</h2><p>使用SPRING INITIALIZR快速创建一个spring boot项目<br><a href="http://start.spring.io/" target="_blank" rel="external">http://start.spring.io/</a></p>
