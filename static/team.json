@@ -1,0 +1,30 @@
+{
+    "list":[{
+        "date":"2018-05-16",
+        "name":"A团队",
+        "orderAmount":14000,
+        "winningAmount":10000,
+        "profit":-4000
+    },
+    {
+        "date":"2018-05-16",
+        "name":"B团队",
+        "orderAmount":24000,
+        "winningAmount":10000,
+        "profit":-14000
+    },
+    {
+        "date":"2018-05-16",
+        "name":"C团队",
+        "orderAmount":34000,
+        "winningAmount":10000,
+        "profit":-24000
+    },
+    {
+        "date":"2018-05-16",
+        "name":"D团队",
+        "orderAmount":44000,
+        "winningAmount":10000,
+        "profit":-34000
+    }]
+}
