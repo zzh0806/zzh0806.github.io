@@ -1,0 +1,20 @@
+{
+	"id":1,
+	"name":"器约茶室",
+	"cover":"./project/qiyuechashi/img/7.png",
+	"year":"2019年春",
+	"date":"2019年4月",
+	"type":"space",
+	"projectType":"商业空间",
+	"place":"杭州，中国",
+	"spaceDesigner":"李金良",
+	"flatDesigner":"冯立宇",
+	"customer":"凡嬉亲子游泳馆",
+	"photographer":"李金良",
+	"pictures":[
+		"./project/qiyuechashi/img/7.png",
+		"./project/qiyuechashi/img/8.png",
+		"./project/qiyuechashi/img/9.png",
+		"./project/qiyuechashi/img/10.png"
+	]
+}
